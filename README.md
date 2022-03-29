@@ -11,16 +11,10 @@ How to use:
     ```
 3. Rename the project
 
-    - Rename dynamic values:
-    ```
-    src/apps/config/constants
-
-    export const microserviceName = "escher-microservice-skeleton"
-    ```
     - Rename static values:
 
     ```
-    Search/Replace escher-microservice-skeleton
+    Search/Replace typescript-template
     ```
     - Rename package name:
 
@@ -29,6 +23,6 @@ How to use:
     name: "some-project-name"
     ```
 
-3. Done! `yarn test` should pass
+4. Done! `yarn test` should pass
 
-4. Find errors in this repository or guide and update it!
+5. Find errors in this repository or guide and update it!
